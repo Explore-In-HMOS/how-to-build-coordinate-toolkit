@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "cities_data",
+      "value": "[{\"name\":\"Beijing\",\"lat\":39.9042,\"lng\":116.4074},{\"name\":\"Shanghai\",\"lat\":31.2304,\"lng\":121.4737},{\"name\":\"Guangzhou\",\"lat\":23.1291,\"lng\":113.2644},{\"name\":\"Chengdu\",\"lat\":30.5728,\"lng\":104.0668}]"
+    },
+    {
+      "name": "label_wgs84",
+      "value": "WGS84 (raw)"
+    },
+    {
+      "name": "label_gcj02",
+      "value": "GCJ02 (map)"
+    },
+    {
+      "name": "label_offset",
+      "value": "Offset"
+    },
+    {
+      "name": "label_unsupported",
+      "value": "Map.Core not available"
+    },
+    {
+      "name": "label_hint",
+      "value": "tap"
+    },
+    {
+      "name": "label_rectify",
+      "value": "Rectified"
+    }
+  ]
+}
