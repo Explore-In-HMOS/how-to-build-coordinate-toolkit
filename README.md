@@ -2,7 +2,7 @@
 
 # How to Build Coordinate Toolkit
 
-A coordinate-system conversion utility for HarmonyOS Next smart wearables. The app demonstrates how to use `convertCoordinateSync` and `convertCoordinate` to convert raw GPS coordinates (WGS84) into the offset-encrypted system (GCJ02) required for accurate positioning on maps of mainland China, measures the offset between the two with `calculateDistance`, and shows one city at a time on a card. The codelab teaches how to perform coordinate conversion entirely offline, with no network or AppGallery Connect setup.
+A coordinate-system conversion utility for HarmonyOS smart wearables. The app demonstrates how to use `convertCoordinateSync` and `convertCoordinate` to convert raw GPS coordinates (WGS84) into the offset-encrypted system (GCJ02) required for accurate positioning on maps of mainland China, measures the offset between the two with `calculateDistance`, and shows one city at a time on a card. The codelab teaches how to perform coordinate conversion entirely offline, with no network or AppGallery Connect setup.
 
 # Preview
 
